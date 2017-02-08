@@ -1,0 +1,14 @@
+{
+    "name": "scissorhands/csv-reader",
+    "description": "Simple Csv File Reader",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Edward Scissorhands",
+            "email": "edward_beats@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
